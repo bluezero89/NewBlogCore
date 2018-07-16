@@ -32,3 +32,15 @@ C:\Users\TuanHH\Desktop\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogC
 C:\Users\TuanHH\Desktop\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.AssemblyInfo.cs
 C:\Users\TuanHH\Desktop\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.dll
 C:\Users\TuanHH\Desktop\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.pdb
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\bin\Debug\netcoreapp2.0\NewBlogCore.deps.json
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\bin\Debug\netcoreapp2.0\NewBlogCore.runtimeconfig.json
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\bin\Debug\netcoreapp2.0\NewBlogCore.runtimeconfig.dev.json
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\bin\Debug\netcoreapp2.0\NewBlogCore.dll
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\bin\Debug\netcoreapp2.0\NewBlogCore.pdb
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.csprojAssemblyReference.cache
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.csproj.CoreCompileInputs.cache
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.AssemblyInfoInputs.cache
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.AssemblyInfo.cs
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.dll
+C:\Users\TuanHH\source\repos\NewBlogCore\NewBlogCore\NewBlogCore\obj\Debug\netcoreapp2.0\NewBlogCore.pdb

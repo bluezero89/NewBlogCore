@@ -13276,11 +13276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TuanHH\\Desktop\\NewBlogCore\\NewBlogCore\\NewBlogCore.csproj",
+      "projectUniqueName": "C:\\Users\\TuanHH\\source\\repos\\NewBlogCore\\NewBlogCore\\NewBlogCore\\NewBlogCore.csproj",
       "projectName": "NewBlogCore",
-      "projectPath": "C:\\Users\\TuanHH\\Desktop\\NewBlogCore\\NewBlogCore\\NewBlogCore.csproj",
+      "projectPath": "C:\\Users\\TuanHH\\source\\repos\\NewBlogCore\\NewBlogCore\\NewBlogCore\\NewBlogCore.csproj",
       "packagesPath": "C:\\Users\\TuanHH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TuanHH\\Desktop\\NewBlogCore\\NewBlogCore\\obj\\",
+      "outputPath": "C:\\Users\\TuanHH\\source\\repos\\NewBlogCore\\NewBlogCore\\NewBlogCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

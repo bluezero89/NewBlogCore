@@ -14,6 +14,9 @@ using NewBlogCore.Services;
 using NewBlogCore.Interface;
 using NewBlogCore.Repository;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.FileProviders;
+using System.IO;
+using Microsoft.AspNetCore.StaticFiles;
 
 namespace NewBlogCore
 {
@@ -90,7 +93,29 @@ namespace NewBlogCore
                 app.UseExceptionHandler("/Home/Error");
             }
 
+            var provider = new FileExtensionContentTypeProvider();
+            // Add new mappings
+            provider.Mappings[".image"] = "image/png";
+
+
+            app.UseDefaultFiles();
             app.UseStaticFiles();
+
+            //app.UseStaticFiles(new StaticFileOptions
+            //{
+            //    FileProvider = new PhysicalFileProvider(
+            //    Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images")),
+            //    RequestPath = "/MyImages",
+            //    ContentTypeProvider = provider
+            //});
+
+            //app.UseDirectoryBrowser(new DirectoryBrowserOptions
+            //{
+            //    FileProvider = new PhysicalFileProvider(
+            //    Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images")),
+            //    RequestPath = "/MyImages"
+            //});
+
             app.UseAuthentication();
             app.UseSession();
 
