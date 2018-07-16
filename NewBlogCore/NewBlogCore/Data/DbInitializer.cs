@@ -73,10 +73,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -84,10 +84,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -95,10 +95,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -106,10 +106,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -117,10 +117,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -128,10 +128,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -139,10 +139,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -150,10 +150,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -161,10 +161,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -172,10 +172,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -183,10 +183,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }, new Drink
                     {
                         Name = "Sữa Tươi Trân Châu Đường Đen",
@@ -194,10 +194,10 @@ namespace NewBlogCore.Data
                         ShortDescription = "Cách làm Sữa Tươi Trân Châu Đường Đen",
                         LongDescription = "Sữa tươi trân châu đường nâu đang là món hot trend trên thị trường, vị béo ngậy của sữa tươi thanh trùng, vị dai dai ngọt ngọt của trân châu đường nâu sẽ khiến bạn uống mãi không dừng. Cách làm thì vô cùng đơn giản, bạn có thể tự làm tại nhà để đảm bảo an toàn sức khỏe nhé!",
                         Category = Categories["Milk Tea"],
-                        ImageUrl = "~/images/brew1.png",
+                        ImageUrl = "images/milk.jpg",
                         InStock = true,
                         IsPreferredDrink = true,
-                        ImageThumbnailUrl = "~/images/brew1.png"
+                        ImageThumbnailUrl = "images/milk.jpg"
                     }
                 );
             }
